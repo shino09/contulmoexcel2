@@ -1,0 +1,11 @@
+div.dataTables_wrapper div.dataTables_info {
+  white-space: normal;
+}
+div.dataTables_wrapper div.dataTables_filter input {
+  width: 250px;
+}
+@media screen and (max-width: 768px){
+  div.dataTables_wrapper div.dataTables_filter input {
+    width: auto;
+  }  
+}
