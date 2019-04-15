@@ -15,7 +15,7 @@
 
   <a href="persona/veerpdf/{{$id}}" title="Veer PDF"  class="btn btn-success btn-circle" >     <i class="fa fa-file-pdf-o"></i> </a>
 
-         <a href="persona/descargarpdf/{{$id}}" title="Descargar PDF" class="btn btn-success btn-circle" >     <i class="fa fa-download"></i> 
+         <a href="persona/descargarpdf/{{$id}}" title="Descargar PDF" class="btn btn-success btn-circle" >     <i class="fa fa-download"></i>
 </a>
        			<?php } ?>
 
